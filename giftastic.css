@@ -66,15 +66,7 @@ h1 {
 }
 
 .result {
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
 	border-radius: 10px;
-}
-
-.result:hover {
-	-webkit-box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.4);
-	-moz-box-shadow:    10px 10px 0px 0px rgba(0, 0, 0, 0.4);
-	box-shadow:         10px 10px 0px 0px rgba(0, 0, 0, 0.4);
 }
 
 p {
