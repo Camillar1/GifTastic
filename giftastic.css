@@ -1,1 +1,79 @@
+body {
+	background: #2e2e2d;
+	font-family: 'Germania One', cursive;
 
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 80px;
+    margin-bottom: 15px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.btn {
+	margin: 60px 0 60px 60px;
+}
+
+ #button-group{
+	font-size: 14px;
+	background: rgb(104, 161, 247);
+	border: none;
+	padding: 10px 15px;
+	margin: 6px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#addGip {
+	font-size: 14px;
+	color: #fff;
+	background: #000300;
+	border: none;
+	padding: 10px 15px;
+	margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#addGip:hover, #addGip:active {
+    background: #daff06;
+    color: #000300;
+
+}
+
+#addGip {
+	padding: 10px 15px;
+	font-size: 14px;
+	border: none;
+	border-radius: 10px;
+}
+
+#button-group {
+	margin-right: 20px;
+	margin-bottom: 15px;
+}
+
+.results-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
+
+.result-container {
+	margin: 30px 30px 0 0;
+}
+
+.result {
+	border-radius: 10px;
+}
+
+p {
+	font-size: 13px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+    margin: 0 0 6px 4px;
+    color: beige;
+}
